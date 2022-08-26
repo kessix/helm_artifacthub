@@ -1,1 +1,1 @@
-# helm_artifacthub
+# Testes do Helm com repositório para geração de artefatos
